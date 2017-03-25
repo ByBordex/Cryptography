@@ -29,7 +29,7 @@ namespace CipherMethods
 
             shift *= encrypt ? 1 : -1;
 
-            //For each character, spin around the alphabet arrays to find its new value.
+            ////For each character, spin around the alphabet arrays to find its new value.
             var cipherArray = text.ToArray().Select(ch =>
             {
                 if (char.IsUpper(ch))
