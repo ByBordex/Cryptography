@@ -1,0 +1,8 @@
+D:\Users\Victor\VisualStudio\SimpleCipher\CipherProogs\bin\Debug\CipherProogs.exe.config
+D:\Users\Victor\VisualStudio\SimpleCipher\CipherProogs\bin\Debug\CipherProogs.exe
+D:\Users\Victor\VisualStudio\SimpleCipher\CipherProogs\bin\Debug\CipherProogs.pdb
+D:\Users\Victor\VisualStudio\SimpleCipher\CipherProogs\bin\Debug\SimpleCipher.exe
+D:\Users\Victor\VisualStudio\SimpleCipher\CipherProogs\bin\Debug\SimpleCipher.pdb
+D:\Users\Victor\VisualStudio\SimpleCipher\CipherProogs\obj\Debug\CipherProogs.csprojResolveAssemblyReference.cache
+D:\Users\Victor\VisualStudio\SimpleCipher\CipherProogs\obj\Debug\CipherProogs.exe
+D:\Users\Victor\VisualStudio\SimpleCipher\CipherProogs\obj\Debug\CipherProogs.pdb
