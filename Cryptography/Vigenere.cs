@@ -11,6 +11,8 @@ namespace CipherMethods
         private static char[] alphaUpper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".ToCharArray();
         private static char[] alphaLower = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".ToLower().ToCharArray();
 
+        public static Func<string, string, bool, string> vigenere = (text, key, encrypt) => VigenereCipher(text, key, encrypt);
+
         /// <summary>
         /// Performs Vigenere cipher method over a given string.
         /// </summary>
@@ -18,7 +20,7 @@ namespace CipherMethods
         /// <param name="key"> String to be used as a key.</param>
         /// <param name="encrypt"></param>
         /// <returns></returns>
-        public static String VignereCipher(string text, string key, bool encrypt = true)
+        public static String VigenereCipher(string text, string key, bool encrypt = true)
         {
             if (new Object[] { text, key, encrypt }.Any(x => x == null) || key.Count() <= 0)
                 throw new ArgumentException("Invalida parameters");

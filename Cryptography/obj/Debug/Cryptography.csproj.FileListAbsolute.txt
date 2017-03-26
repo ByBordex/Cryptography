@@ -1,3 +1,0 @@
-D:\Users\Victor\VisualStudio\Cryptography\Cryptography\bin\Debug\CipherProogs.exe.config
-D:\Users\Victor\VisualStudio\Cryptography\Cryptography\obj\Debug\CipherProogs.exe
-D:\Users\Victor\VisualStudio\Cryptography\Cryptography\obj\Debug\CipherProogs.pdb

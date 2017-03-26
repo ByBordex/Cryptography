@@ -1,0 +1,3 @@
+D:\Users\Victor\VisualStudio\Cryptography\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Users\Victor\VisualStudio\Cryptography\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Users\Victor\VisualStudio\Cryptography\GUI\bin\Debug\GUI.exe.config
